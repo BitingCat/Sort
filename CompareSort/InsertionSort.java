@@ -1,4 +1,4 @@
-package wen.example.sort;
+package wen.example.sort.CompareSort;
 
 import org.junit.Test;
 
